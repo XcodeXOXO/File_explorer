@@ -37,6 +37,7 @@ A custom-built, highly optimized recursive file explorer mimicking the VS Code a
     ```bash
     npm run build
     ```
+5.  **View the Live Demo:** [Live Demo](https://file-explorer-swart-seven.vercel.app/)
 
 ## Author
 **G. Anand Subrahmanian**
